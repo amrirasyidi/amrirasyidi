@@ -1,17 +1,54 @@
-### print("Hello, world!") <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# <img hight="50" width="50" src="assets/doge.gif"> Hello, there!
+General Kenobi!
 
-## 
-<!--
-**amrirasyidi/amrirasyidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No no no, my name is Amri Rasyidi, from Indonesia. 🙋‍♂️
 
-Here are some ideas to get you started:
+### I'm a SCUBA diver 🤿, (aspiring) home cook 👨‍🍳, and data-to-insight distiller 🔬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an experienced data analyst and scientist with geospatial science background and a thorough life-long student with a high will to learn and explore. Currently on a journey to delve deeper into the forest of data science and machine learning.
+
+<img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrirasyidi" />
+
+# Language
+<img hight="30" width="30" align="left" alt="SQL" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
+<img hight="30" width="30" align="left" alt="python" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" />
+<img hight="30" width="30" align="left" alt="tensorflow" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" />
+
+<br>
+
+# Tools
+<p align="left">
+<img hight="30" width="70" alt="BQ" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168151.png"/>
+<img hight="30" width="30" alt="Tableau" src="https://img.icons8.com/color/344/tableau-software.png"/>
+<img hight="30" width="30" alt="metabase" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png"/>
+<img hight="30" width="30" alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
+<img hight="30" width="30" alt="Git" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"/>
+<img hight="30" width="30" alt="GitHub" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/github_logo_icon_169115.png"/>
+</p>
+<br>
+<p align="left">
+<img hight="30" width="70" alt="jupyter" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"/>
+<img hight="30" width="70" alt="qgis" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qgis_logo_icon_168038.png"/>
+<img hight="30" width="70" alt="asana" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/asana_logo_icon_167830.png"/>
+<img hight="30" width="30" alt="confluence" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_confluence_icon_130672.png"/>
+<img hight="30" width="30" alt="jira" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"/>
+</p>
+
+<br>
+
+# Let's connect!
+
+<a href="mailto:amri.geodesy@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/amri-rasyidi-29702715b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</a>
+
+<br>
+<br>
+<h4 align="center"><samp>
+See you when I see you!
+<br><br>
+<img hight="100" width="100" align="center" src="assets/gone.gif">
+</samp></h4>

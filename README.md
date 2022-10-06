@@ -1,22 +1,43 @@
-# <img hight="50" width="50" src="assets/doge.gif"> Hello, there!
+<h1 align="center">
+<img hight="50" width="50" src="assets/doge.gif"> Hello, there!
+</h1>
 General Kenobi!
 
 No no no, my name is Amri Rasyidi, from Indonesia. 🙋‍♂️
-
-### I'm a SCUBA diver 🤿, (aspiring) home cook 👨‍🍳, and data-to-insight distiller 🔬
+<h2>
+I'm a SCUBA diver 🤿, (aspiring) home cook 👨‍🍳, and data-to-insight distiller 🔬
+</h2>
 
 I'm an experienced data analyst and scientist with geospatial science background and a thorough life-long student with a high will to learn and explore. Currently on a journey to delve deeper into the forest of data science and machine learning.
 
-<img align="right" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrirasyidi" />
+<h2>
+I'm currently learning..
+</h2>
 
-# Language
+<p align="left">
+<ul>
+  <li>Deep learning</li>
+  <li>Computer science</li>
+  <li>Geospatial data science</li>
+  <li></li>
+</ul>
+</p>
+
+
+
+<img align="right" alt="Amri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrirasyidi" />
+
+<h2>
+Language
+</h2>
 <img hight="30" width="30" align="left" alt="SQL" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
 <img hight="30" width="30" align="left" alt="python" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" />
 <img hight="30" width="30" align="left" alt="tensorflow" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" />
-
 <br>
 
-# Tools
+<h2>
+Tools
+</h2>
 <p align="left">
 <img hight="30" width="70" alt="BQ" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168151.png"/>
 <img hight="30" width="30" alt="Tableau" src="https://img.icons8.com/color/344/tableau-software.png"/>
@@ -36,17 +57,18 @@ I'm an experienced data analyst and scientist with geospatial science background
 
 <br>
 
-# Let's connect!
-
+<h2 align="center">
+Let's connect!
+</h2>
+<p align="center">
 <a href="mailto:amri.geodesy@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/amri-rasyidi-29702715b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
+</p>
 
-<br>
-<br>
 <h4 align="center"><samp>
 See you when I see you!
 <br><br>

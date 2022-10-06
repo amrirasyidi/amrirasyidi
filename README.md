@@ -17,8 +17,8 @@ I'm currently learning..
 <p align="left">
 <ul>
   <li>Deep learning</li>
-  <li>Computer science</li>
   <li>Geospatial data science</li>
+  <li>Computer science</li>
   <li></li>
 </ul>
 </p>
@@ -28,7 +28,7 @@ I'm currently learning..
 <img align="right" alt="Amri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrirasyidi" />
 
 <h2>
-Language
+Languages
 </h2>
 <img hight="30" width="30" align="left" alt="SQL" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
 <img hight="30" width="30" align="left" alt="python" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" />

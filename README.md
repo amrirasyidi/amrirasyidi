@@ -24,8 +24,9 @@ I'm currently learning..
 </p>
 
 
-
+<!--
 <img align="right" alt="Amri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrirasyidi" />
+-->
 
 <h2>
 Languages
@@ -45,9 +46,10 @@ Tools
 <img hight="30" width="30" alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
 <img hight="30" width="30" alt="Git" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"/>
 <img hight="30" width="30" alt="GitHub" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/github_logo_icon_169115.png"/>
+<!--
 </p>
-<br>
 <p align="left">
+-->
 <img hight="30" width="70" alt="jupyter" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"/>
 <img hight="30" width="70" alt="qgis" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qgis_logo_icon_168038.png"/>
 <img hight="30" width="70" alt="asana" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/asana_logo_icon_167830.png"/>
@@ -62,10 +64,16 @@ Let's connect!
 </h2>
 <p align="center">
 <a href="mailto:amri.geodesy@gmail.com">
- <img alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
+ <img alt="Gmail" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+</a>&emsp;
 <a href="https://www.linkedin.com/in/amri-rasyidi-29702715b/">
-  <img alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img alt="Linkedin" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+</a>&emsp;
+<a href="https://medium.com/@painfully-mediocre">
+  <img alt="Medium" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/2190/2190431.png" />
+</a>&emsp;
+<a href="https://www.instagram.com/amrirrr/?hl=en">
+  <img alt="instagram" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 </p>
 

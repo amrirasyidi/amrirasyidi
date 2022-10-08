@@ -19,7 +19,7 @@ I'm currently learning..
   <li>Deep learning</li>
   <li>Geospatial data science</li>
   <li>Computer science</li>
-  <li>...</li>
+  <li>Many more to come...</li>
 </ul>
 </p>
 

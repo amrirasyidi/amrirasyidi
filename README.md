@@ -8,7 +8,7 @@ No no no, my name is Amri Rasyidi, from Indonesia. 🙋‍♂️
 I'm a SCUBA diver 🤿, (aspiring) home cook 👨‍🍳, and data-to-insight distiller 🔬
 </h2>
 
-I'm an experienced data analyst and scientist with geospatial science background and a thorough life-long student with a high will to learn and explore. Currently on a journey to delve deeper into the forest of data science and machine learning.
+I have 3+ years of experience as a data scientist/analyst with a geospatial science background. A thorough life-long student with a high will to learn and explore. Currently on a journey to delve deeper into the forest of data science and machine learning.
 
 <h2>
 I'm currently learning..
@@ -19,7 +19,7 @@ I'm currently learning..
   <li>Deep learning</li>
   <li>Geospatial data science</li>
   <li>Computer science</li>
-  <li></li>
+  <li>...</li>
 </ul>
 </p>
 

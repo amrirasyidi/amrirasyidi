@@ -34,6 +34,7 @@ Languages
 <img hight="30" width="30" align="left" alt="SQL" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
 <img hight="30" width="30" align="left" alt="python" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" />
 <img hight="30" width="30" align="left" alt="tensorflow" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" />
+<img hight="30" width="30" alt="Git" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"/>
 <br>
 
 <h2>
@@ -44,7 +45,6 @@ Tools
 <img hight="30" width="30" alt="Tableau" src="https://img.icons8.com/color/344/tableau-software.png"/>
 <img hight="30" width="30" alt="metabase" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png"/>
 <img hight="30" width="30" alt="Visual Studio Code" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>
-<img hight="30" width="30" alt="Git" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"/>
 <img hight="30" width="30" alt="GitHub" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/github_logo_icon_169115.png"/>
 <!--
 </p>

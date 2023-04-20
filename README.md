@@ -1,11 +1,9 @@
 <h1 align="center">
 <img hight="50" width="50" src="assets/doge.gif"> Hello, there!
 </h1>
-General Kenobi!
-
-No no no, my name is Amri Rasyidi, from Indonesia. 🙋‍♂️
+My name is Amri Rasyidi, from Indonesia. 🙋‍♂️
 <h2>
-I'm a SCUBA diver 🤿, (aspiring) home cook 👨‍🍳, and data-to-insight distiller 🔬
+To sum it up: I like to find insight from scattered data 🔬
 </h2>
 
 I have 3+ years of experience as a data scientist/analyst with a geospatial science background. A thorough life-long student with a high will to learn and explore. Currently on a journey to delve deeper into the forest of data science and machine learning.

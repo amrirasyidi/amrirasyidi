@@ -67,8 +67,8 @@ Let's connect!
 <a href="https://www.linkedin.com/in/amri-rasyidi-29702715b/">
   <img alt="Linkedin" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>&emsp;
-<a href="https://medium.com/@painfully-mediocre">
-  <img alt="Medium" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/2190/2190431.png" />
+<a href="https://longlivecomrade9.wordpress.com">
+  <img alt="WordPress" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/168/168810.png" />
 </a>&emsp;
 <a href="https://www.instagram.com/amrirrr/?hl=en">
   <img alt="instagram" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />

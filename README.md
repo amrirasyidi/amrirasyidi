@@ -67,7 +67,7 @@ Let's connect!
 <a href="https://www.linkedin.com/in/amri-rasyidi-29702715b/">
   <img alt="Linkedin" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>&emsp;
-<a href="https://longlivecomrade9.wordpress.com">
+<a href="https://arasyidi.netlify.app">
   <img alt="WordPress" width="50" hight="50" src="https://cdn-icons-png.flaticon.com/512/168/168810.png" />
 </a>&emsp;
 <a href="https://www.instagram.com/amrirrr/?hl=en">
